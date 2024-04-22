@@ -1,4 +1,3 @@
-Here's a README for your Dash app:
 
 ---
 
